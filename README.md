@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bera Çetkin as @cetkin here
+- 👋 Hi, I’m Bera Çetkin as @cetkin here. Electrical & Electronics Engineer.
 - 👀 I’m interested in cloud engineering, machine learning, IOT.
 - 🌱 I’m currently learning linux administration, cloud engineering
 
